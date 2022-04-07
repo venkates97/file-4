@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'venkat-2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC4958B4E64640F1932A179FD0E7806C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AFFCA95798148E2BE7224415C76E3CF }}
           package: .
